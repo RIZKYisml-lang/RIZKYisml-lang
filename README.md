@@ -1,6 +1,6 @@
 ## Hi there I'm Rizy Ismail 👋
 
-![Rizkyisml-lang](img/github-header-banner.png)
+![RIZKYisml-lang](/img/github-header-banner.png)
 ✌️✌️✌️
 
 <!--
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
+
   ![have a good day](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRhaHR0NWUxajgwZHNjY2wzb3BhMGVvZGt5czJ6NW45dGpodXRwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R82SViBGWcFx8pPyKr/giphy.gif)
