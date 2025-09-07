@@ -1,7 +1,7 @@
 ## Hi there I'm Rizy Ismail 👋
 
-![RIZKYisml-lang](/img/github-header-banner.png)
 ✌️✌️✌️
+![RIZKYisml-lang](/img/github-header-banner.png)
 
 <!--
 **RIZKYisml-lang/RIZKYisml-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
